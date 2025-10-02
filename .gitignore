@@ -21,7 +21,6 @@ wheels/
 *.egg
 
 # Virtual Environment
-.env
 .venv
 env/
 venv/
@@ -38,7 +37,6 @@ ENV/
 email_client.log
 
 # Local configuration
-.env
 .env.local
 .env.*.local
 
